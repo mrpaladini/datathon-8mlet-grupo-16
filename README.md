@@ -171,4 +171,4 @@ e novas avaliações offline do algoritmo adaptativo.
 - [x] Código executável retornando a recomendação (`recomendar_canal`)
 - [x] README preenchido (link da base, infraestrutura AWS, instruções de execução)
 - [x] Tracking de experimentos via MLflow
-- [ ] Vídeo de apresentação (até 5 min)
+- [x] Vídeo de apresentação (até 5 min)
